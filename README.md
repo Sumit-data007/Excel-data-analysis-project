@@ -2,7 +2,7 @@
 ## Project objective
 The Fashion Store want to create an annual sales report for 2022. So that, the company can understand their customers and grow more sales in 2023 & 2024
 ## Questions (KPIs)
--Compare the sales and orders using a single chart.
+- Compare the sales and orders using a single chart.
 -Which month got the highest sales and orders?
 -Who purchased more – Men or Women?
 -What are different order status in 2022?
